@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1199.6 985.7">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .37em;
+      }
+
+      .cls-2 {
+        letter-spacing: .01em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.65em;
+      }
+
+      .cls-4 {
+        letter-spacing: .25em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        font-family: Garamond, Garamond;
+      }
+
+      .cls-7, .cls-8 {
+        font-size: 19.16px;
+      }
+
+      .cls-9 {
+        letter-spacing: .37em;
+      }
+
+      .cls-10 {
+        font-size: 17px;
+        letter-spacing: -.05em;
+      }
+
+      .cls-10, .cls-11, .cls-8, .cls-12, .cls-13 {
+        font-family: RyuminPr6N-Light-90ms-RKSJ-H, 'A-OTF Ryumin Pr6N';
+        font-weight: 300;
+      }
+
+      .cls-10, .cls-11, .cls-13 {
+        fill: #d0b580;
+      }
+
+      .cls-14 {
+        font-size: 27.68px;
+      }
+
+      .cls-11 {
+        font-size: 25px;
+      }
+
+      .cls-15 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-16 {
+        fill: none;
+      }
+
+      .cls-12 {
+        font-size: 16.14px;
+      }
+
+      .cls-17 {
+        letter-spacing: .48em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+
+      .cls-19 {
+        letter-spacing: .25em;
+      }
+
+      .cls-13 {
+        font-size: 18px;
+      }
+
+      .cls-20 {
+        letter-spacing: -.25em;
+      }
+
+      .cls-21 {
+        letter-spacing: -.5em;
+      }
+
+      .cls-22 {
+        font-family: KozGoPr6N-Regular-90ms-RKSJ-H, 'Kozuka Gothic Pr6N';
+        font-size: 10px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-16" width="1199.6" height="985.7"/>
+    </clipPath>
+  </defs>
+  <g id="_レイヤー_3" data-name="レイヤー 3">
+    <g class="cls-15">
+      <text class="cls-13" transform="translate(31.74 28.21)"><tspan x="0" y="0">西武池袋線</tspan></text>
+      <g>
+        <text class="cls-12" transform="translate(253.44 488.62)"><tspan x="0" y="0">J</tspan><tspan class="cls-19" x="7.16" y="0">R</tspan><tspan x="22.25" y="0">山手線・埼京線・湘南新宿ライン</tspan><tspan x="0" y="33.28">東京メトロ有楽町線</tspan><tspan x="0" y="66.56">東京メトロ丸の内線</tspan><tspan x="0" y="99.84">東武東上線</tspan></text>
+        <text class="cls-8" transform="translate(254.45 245.57)"><tspan x="0" y="0">所沢</tspan></text>
+        <text class="cls-8" transform="translate(254.45 370.62)"><tspan x="0" y="0">練馬</tspan></text>
+        <text class="cls-8" transform="translate(254.45 336.33)"><tspan x="0" y="0">石神井公園</tspan></text>
+        <text class="cls-8" transform="translate(252.43 444.24)"><tspan x="0" y="0">池袋</tspan></text>
+        <text class="cls-8" transform="translate(254.45 207.24)"><tspan x="0" y="0">西所沢</tspan></text>
+        <text class="cls-11" transform="translate(254.45 154.79)"><tspan x="0" y="0">入間市</tspan></text>
+        <text class="cls-8" transform="translate(254.45 99.34)"><tspan x="0" y="0">飯能</tspan></text>
+        <text class="cls-8" transform="translate(51.74 207.24)"><tspan x="0" y="0">西武球場前</tspan></text>
+        <text class="cls-6" transform="translate(165.36 101.13)"><tspan class="cls-14" x="0" y="0">9</tspan><tspan class="cls-7" x="12.98" y="0">min</tspan></text>
+        <text class="cls-6" transform="translate(162.34 247.36)"><tspan class="cls-14" x="0" y="0">16</tspan><tspan class="cls-7" x="25.95" y="0">min</tspan></text>
+        <text class="cls-6" transform="translate(162.34 336.11)"><tspan class="cls-14" x="0" y="0">33</tspan><tspan class="cls-7" x="25.95" y="0">min</tspan></text>
+        <text class="cls-6" transform="translate(162.34 370.4)"><tspan class="cls-14" x="0" y="0">40</tspan><tspan class="cls-7" x="25.95" y="0">min</tspan></text>
+        <text class="cls-6" transform="translate(162.34 444.02)"><tspan class="cls-14" x="0" y="0">49</tspan><tspan class="cls-7" x="25.95" y="0">min</tspan></text>
+        <text class="cls-6" transform="translate(118.93 178.78)"><tspan class="cls-14" x="0" y="0">22</tspan><tspan class="cls-7" x="25.95" y="0">min</tspan></text>
+      </g>
+      <text class="cls-10" transform="translate(681.74 28.21)"><tspan x="0" y="0">東京メトロ副都心線／有楽町線　東急東横／みなとみらい線直通</tspan></text>
+      <g>
+        <text class="cls-8" transform="translate(829.99 226.41)"><tspan x="0" y="0">所沢</tspan></text>
+        <text class="cls-11" transform="translate(829.99 160.85)"><tspan x="0" y="0">入間市</tspan></text>
+        <text class="cls-8" transform="translate(829.99 101.35)"><tspan x="0" y="0">飯能</tspan></text>
+        <text class="cls-8" transform="translate(829.99 332.3)"><tspan x="0" y="0">練馬</tspan></text>
+        <text class="cls-8" transform="translate(919.74 348.44)"><tspan x="0" y="0">光が丘</tspan></text>
+        <text class="cls-8" transform="translate(683.76 332.3)"><tspan x="0" y="0">六本木</tspan></text>
+        <text class="cls-8" transform="translate(751.32 444.24)"><tspan x="0" y="0">池袋</tspan></text>
+        <text class="cls-8" transform="translate(829.99 397.85)"><tspan x="0" y="0">小竹向原</tspan></text>
+        <text class="cls-8" transform="translate(829.99 504.75)"><tspan x="0" y="0">新宿三丁目</tspan></text>
+        <text class="cls-8" transform="translate(829.99 555.18)"><tspan x="0" y="0">渋谷</tspan></text>
+        <text class="cls-8" transform="translate(829.99 606.61)"><tspan x="0" y="0">横浜</tspan></text>
+        <text class="cls-8" transform="translate(829.99 658.04)"><tspan x="0" y="0">元町・中華街</tspan></text>
+        <text class="cls-8" transform="translate(1054.88 504.75)"><tspan x="0" y="0">市ヶ谷</tspan></text>
+        <text class="cls-8" transform="translate(1054.88 555.18)"><tspan x="0" y="0">有楽町</tspan></text>
+        <text class="cls-8" transform="translate(1054.88 606.61)"><tspan x="0" y="0">銀座一丁目</tspan></text>
+        <text class="cls-8" transform="translate(1054.88 658.04)"><tspan x="0" y="0">新木場</tspan></text>
+        <text class="cls-6" transform="translate(727.5 227.19)"><tspan class="cls-14" x="0" y="0">16</tspan><tspan class="cls-7" x="25.95" y="0">min</tspan></text>
+        <text class="cls-6" transform="translate(736.58 104.15)"><tspan class="cls-14" x="0" y="0">9</tspan><tspan class="cls-7" x="12.98" y="0">min</tspan></text>
+        <text class="cls-6" transform="translate(725.49 399.64)"><tspan class="cls-14" x="0" y="0">47</tspan><tspan class="cls-7" x="25.95" y="0">min</tspan></text>
+        <text class="cls-6" transform="translate(725.49 556.97)"><tspan class="cls-14" x="0" y="0">68</tspan><tspan class="cls-7" x="25.95" y="0">min</tspan></text>
+        <text class="cls-6" transform="translate(725.49 507.55)"><tspan class="cls-14" x="0" y="0">62</tspan><tspan class="cls-7" x="25.95" y="0">min</tspan></text>
+        <text class="cls-6" transform="translate(725.49 662.86)"><tspan class="cls-14" x="0" y="0">112</tspan><tspan class="cls-7" x="38.93" y="0">min</tspan></text>
+        <text class="cls-6" transform="translate(725.49 613.44)"><tspan class="cls-14" x="0" y="0">101</tspan><tspan class="cls-7" x="38.93" y="0">min</tspan></text>
+        <text class="cls-6" transform="translate(963.49 556.97)"><tspan class="cls-14" x="0" y="0">80</tspan><tspan class="cls-7" x="25.95" y="0">min</tspan></text>
+        <text class="cls-6" transform="translate(963.49 507.55)"><tspan class="cls-14" x="0" y="0">71</tspan><tspan class="cls-7" x="25.95" y="0">min</tspan></text>
+        <text class="cls-6" transform="translate(963.49 662.86)"><tspan class="cls-14" x="0" y="0">95</tspan><tspan class="cls-7" x="25.95" y="0">min</tspan></text>
+        <text class="cls-6" transform="translate(963.49 613.44)"><tspan class="cls-14" x="0" y="0">78</tspan><tspan class="cls-7" x="25.95" y="0">min</tspan></text>
+      </g>
+      <text class="cls-22" transform="translate(175.88 761.19)"><tspan x="0" y="0">※掲載の電車所要時間は、乗り換え時間等を含んだ日中時のもので、時間帯により異なります。通勤</tspan><tspan class="cls-9" x="450" y="0">時</tspan><tspan x="463.67" y="0">7：3</tspan><tspan class="cls-4" x="484.69" y="0">0</tspan><tspan class="cls-9" x="492.7" y="0">～</tspan><tspan x="506.38" y="0">9：3</tspan><tspan class="cls-9" x="527.41" y="0">0</tspan><tspan class="cls-5" x="536.59" y="0">に到着する電車を表記しています</tspan><tspan class="cls-21" x="686.59" y="0">。</tspan><tspan x="691.59" y="0">（Yahoo</tspan><tspan class="cls-9" x="730.29" y="0">!</tspan><tspan x="736.44" y="0">路線情</tspan><tspan class="cls-9" x="766.44" y="0">報</tspan><tspan x="780.11" y="0">2023.</tspan><tspan class="cls-1" x="804.33" y="0">5</tspan><tspan x="813.52" y="0">月調べ</tspan><tspan class="cls-21" x="843.52" y="0">）</tspan><tspan x="0" y="16">※池袋駅へは西武池袋線急行を利用</tspan><tspan class="cls-21" x="160" y="16">。</tspan><tspan x="165" y="16">（日中時：西武池袋線快速を利用</tspan><tspan class="cls-21" x="315" y="16">）</tspan><tspan x="320" y="16">※新宿駅へは西武池袋線快速を利用、池袋駅に</tspan><tspan class="cls-17" x="530" y="16">て</tspan><tspan x="544.78" y="16">J</tspan><tspan class="cls-17" x="548.71" y="16">R</tspan><tspan class="cls-5" x="559.26" y="16">湘南新宿ラインに乗換</tspan><tspan class="cls-21" x="659.26" y="16">。</tspan><tspan x="664.26" y="16">（日中時：池袋駅に</tspan><tspan class="cls-17" x="754.26" y="16">て</tspan><tspan x="769.04" y="16">J</tspan><tspan class="cls-17" x="772.97" y="16">R</tspan><tspan class="cls-5" x="783.52" y="16">埼京線に乗換</tspan><tspan class="cls-21" x="843.52" y="16">）</tspan><tspan x="0" y="32">※</tspan><tspan class="cls-2" x="10" y="32">渋谷駅へは西武池袋線快速を利</tspan><tspan x="151.63" y="32">用、</tspan><tspan class="cls-2" x="171.63" y="32">小竹向原駅にて東京メトロ副都心線へ乗</tspan><tspan x="353.73" y="32">換</tspan><tspan class="cls-21" x="363.73" y="32">。</tspan><tspan x="368.73" y="32">※</tspan><tspan class="cls-2" x="378.73" y="32">東京駅へは西武池袋線急行を利</tspan><tspan x="520.37" y="32">用、</tspan><tspan class="cls-2" x="540.37" y="32">池袋駅より東京メトロ丸の内線に乗</tspan><tspan x="702.23" y="32">換</tspan><tspan class="cls-21" x="712.23" y="32">。</tspan><tspan x="717.23" y="32">※</tspan><tspan class="cls-2" x="727.23" y="32">市ヶ谷駅へは西武池袋線</tspan><tspan class="cls-18" x="838.52" y="32">快</tspan><tspan x="0" y="48">速を利用</tspan><tspan class="cls-21" x="40" y="48">、</tspan><tspan x="45" y="48">小竹向原駅にて東京メトロ有楽町線に乗換</tspan><tspan class="cls-21" x="235" y="48">。</tspan><tspan x="240" y="48">※銀座一丁目駅へは西武池袋線急行を利用</tspan><tspan class="cls-21" x="430" y="48">、</tspan><tspan x="435" y="48">池袋駅より東京メトロ有楽町線を利用</tspan><tspan class="cls-3" x="605" y="48">。</tspan><tspan x="608.52" y="48">（日中</tspan><tspan class="cls-20" x="638.52" y="48">時：</tspan><tspan x="653.52" y="48">小竹向原駅より東京メトロ有楽町線に乗換</tspan><tspan class="cls-21" x="843.52" y="48">）</tspan><tspan x="0" y="64">※元町・中華街駅へは西武池袋線快速を利用、小竹向原駅より東京メトロ副都心線を利用</tspan><tspan class="cls-21" x="400" y="64">。</tspan><tspan x="405" y="64">（直通運転</tspan><tspan class="cls-21" x="455" y="64">）</tspan></text>
+    </g>
+  </g>
+</svg>

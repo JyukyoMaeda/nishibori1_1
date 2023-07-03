@@ -1,0 +1,6 @@
+.l-newsBer{
+    padding: 1.5vh 0;
+    @include mq(tb){
+        padding: 3vh 0;
+    }
+}

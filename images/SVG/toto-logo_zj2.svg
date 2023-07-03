@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 124.7 52.43">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #005fab;
+      }
+
+      .cls-2 {
+        letter-spacing: .1em;
+      }
+
+      .cls-3 {
+        font-family: KozGoPr6N-Light-90ms-RKSJ-H, 'Kozuka Gothic Pr6N';
+        font-size: 10.1px;
+        font-weight: 300;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        font-family: ArialMT, Arial;
+        font-size: 28.87px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-5" width="124.7" height="52.43"/>
+    </clipPath>
+  </defs>
+  <g id="_レイヤー_4" data-name="レイヤー 4">
+    <g class="cls-4">
+      <g>
+        <text class="cls-6" transform="translate(74.5 51.28)"><tspan x="0" y="0">ZJ2</tspan></text>
+        <g>
+          <path class="cls-1" d="m38.38,1.53h19.37v6.49h-2.36c0-2.91-.68-4.61-5.05-4.61v12.81s.17.69,1,.69h2.7v2.04h-11.79v-2.04h2.69c.51,0,1.01,0,1.01-.52V3.4c-1.35,0-5.22-.51-5.22,4.61h-2.36V1.53Z"/>
+          <path class="cls-1" d="m69.69.69c-7.07,0-10.43,4.3-10.43,9.61,0,6.24,4.67,9.62,10.43,9.62s10.43-3.38,10.43-9.62c0-5.31-3.01-9.61-10.43-9.61Zm0,16.88c-3.53,0-5.57-3.25-5.57-7.27s1.21-7.27,5.57-7.27,5.57,3.25,5.57,7.27-2.02,7.27-5.57,7.27Z"/>
+          <path class="cls-1" d="m81.83,1.53h19.37v6.49h-2.36c0-2.91-.67-4.61-5.06-4.61v12.81s.17.69,1.01.69h2.69v2.04h-11.79v-2.04h2.69c.51,0,1.01,0,1.01-.52V3.4c-1.35,0-5.22-.51-5.22,4.61h-2.36V1.53Z"/>
+          <path class="cls-1" d="m113.14.69c-7.05,0-10.42,4.3-10.42,9.61,0,6.24,4.66,9.62,10.42,9.62s10.43-3.38,10.43-9.62c0-5.31-3-9.61-10.43-9.61Zm0,16.88c-3.52,0-5.57-3.25-5.57-7.27s1.21-7.27,5.57-7.27,5.57,3.25,5.57,7.27-2.02,7.27-5.57,7.27Z"/>
+        </g>
+        <text class="cls-3" transform="translate(1.17 36.45)"><tspan x="0" y="0">ウォシュレット</tspan><tspan x="0" y="12.99">一体型便</tspan><tspan class="cls-2" x="40.42" y="12.99">器</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
