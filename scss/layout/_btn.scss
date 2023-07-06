@@ -69,4 +69,9 @@
 .box_btn{
         padding: 1vh 0;
         background: #4896d0;
+
+        &.-black{
+            color: white;
+            background: #000000;
+        }
 }

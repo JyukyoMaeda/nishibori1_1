@@ -442,6 +442,10 @@ img {
   padding: 1vh 0;
   background: #4896d0;
 }
+.box_btn.-black {
+  color: white;
+  background: #000000;
+}
 
 .l-contact--area {
   width: 100%;
@@ -567,6 +571,20 @@ img {
 @media screen and (min-width: 1850px) {
   .l-contents.-img-bg .l-contentsBox.-plan-facadeBtn {
     left: 32.5%;
+  }
+}
+.l-contents.-img-bg .l-contentsBox.-built-searchBtn {
+  top: 84%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 50%;
+}
+@media screen and (min-width: 767px) {
+  .l-contents.-img-bg .l-contentsBox.-built-searchBtn {
+    top: 85%;
+    left: 50%;
+    width: 42%;
+    max-width: 300px;
   }
 }
 .l-contents.-img-bg.-pc80 {
@@ -1526,7 +1544,7 @@ img {
   font-size: 3vw;
   color: black;
   background: white;
-  padding: 1vh 0 0.2vh;
+  padding: 1.5vh 0 0.2vh;
   border-radius: 5px;
   overflow: hidden;
   transition: 0.3s all;
@@ -2489,6 +2507,31 @@ img {
 }
 .l-text.-sp-CONCEPT::after {
   background: url(../images/SVG/sp_icon02.svg) no-repeat;
+}
+.l-text.-PLAN {
+  position: relative;
+}
+.l-text.-PLAN::after {
+  content: "PLANNING";
+  font-size: 0.6vw;
+  font-weight: bold;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.l-text.-CONSTRUCTION {
+  position: relative;
+}
+.l-text.-CONSTRUCTION::after {
+  content: "CONSTRUCTION EXAMPLE";
+  font-size: 0.6vw;
+  font-weight: bold;
+  line-height: 1;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 .l-text.-BUILT {
   position: relative;

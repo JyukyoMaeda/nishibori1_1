@@ -254,6 +254,31 @@
             background: url(../images/SVG/sp_icon02.svg) no-repeat;
         }
     }
+    &.-PLAN{
+        position: relative;
+        &::after{
+            content: "PLANNING";
+            font-size: .6vw;
+            font-weight: bold;
+            position: absolute;
+            top: 30%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+        }
+    }
+    &.-CONSTRUCTION{
+        position: relative;
+        &::after{
+            content: "CONSTRUCTION EXAMPLE";
+            font-size: .6vw;
+            font-weight: bold;
+            line-height: 1;
+            position: absolute;
+            top: 30%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+        }
+    }
     &.-BUILT{
         position: relative;
         &::after{
