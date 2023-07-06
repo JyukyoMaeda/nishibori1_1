@@ -42,40 +42,57 @@
     margin-top: -15px;
 }
 .prev-arrow{
-    left: -40px;
+    left: -30px;
     width: 0;
     height: 0;
-    background: white;
-    border-left: 0 solid white;
-    border-right: 15px solid #333;
-    border-top: 10px solid white;
-    border-bottom: 10px solid white;
+    background: $main-color--gray;
+    border-left: 0 solid $main-color--w;
+    border-right: 15px solid #003444;
+    border-top: 10px solid $main-color--w;
+    border-bottom: 10px solid $main-color--w;
     transition: .5s all;
+    @include mq(tb){
+        left: -40px;
+        border-left: 0 solid $main-color--gray;
+        border-top: 10px solid $main-color--gray;
+        border-bottom: 10px solid $main-color--gray;
+    }
     &:hover{
         border-right: 15px solid $site-color01;
     }
 }
 .next-arrow{
-    right: -40px;
+    right: -30px;
     width: 0;
     height: 0;
-    background: white;
-    border-right: 0 solid white;
-    border-left: 15px solid #333;
-    border-top: 10px solid white;
-    border-bottom: 10px solid white;
+    background: $main-color--gray;
+    border-right: 0 solid $main-color--w;
+    border-left: 15px solid #003444;
+    border-top: 10px solid $main-color--w;
+    border-bottom: 10px solid $main-color--w;
     transition: .5s all;
+    @include mq(tb){
+        right: -40px;
+        border-right: 0 solid $main-color--gray;
+        border-top: 10px solid $main-color--gray;
+        border-bottom: 10px solid $main-color--gray;
+    }
     &:hover{
         border-left: 15px solid $site-color01;
     }
 }
 
 .slick-dots{
+    @include mq(sp){
+        bottom: -15px !important;
+    }
     li{
         button{
             &:before {
+                color: $main-color--b !important;
                 transition: .3s all;
                 @include mq(tb){
+                    color: white !important;
                     font-size: 17px !important;
                     width: 44px !important;
                     height: 44px !important;
@@ -83,7 +100,7 @@
             }
             &:hover{
                 &:before {
-                    color: $site-color01 !important;
+                    color: #003444 !important;
                 }
             }
         }

@@ -30,19 +30,27 @@
 		.imgBox{// 背景画像
 			width: 100%;
 			height: auto;
+			&.-parallax{//パラドックス背景の場合、ここは透明画像
+				justify-content: center;
+				align-items: center;
+
+				background-attachment: fixed;
+				background-position: center;
+				background-size: cover;
+				background-repeat: no-repeat;
+				&.-parallax_bg{//ここに背景を指定する。
+					background-image: url(/images/bg/top-parallax_bg_s.jpg);
+					@include mq(tb){
+						background-image: url(../images/bg/top-parallax_bg.jpg);
+					}
+				}
+			}
 		}
 		.l-contentsBox{// コンテンツ要素
 			width: 100%;
 			position: absolute;
-			.l-contentsBox--wrapper{
-				width: 100%;
-				height: auto;
-				@include mq(tb){
-					width: 100%;
-					max-width: 1315px;
-					margin: auto;
-				}
-			}
+
+			&.-text,
 			&.-kukaku,
 			&.-location-trainBox,
 			&.-builtPlanText,
@@ -51,47 +59,17 @@
 				left: 50%;
 				transform: translate(-50%, -50%);
 			}
-			&.-top-op{
-				top: 81%;
-				left: 22%;
-				transform: translate(-50%, -50%);
-				width: 38%;
+
+			&.-top-qualityBtn{
+				top: 70%;
+				left: 50%;
+				transform: translateX(-50%);
+
 				@include mq(tb){
-					top: 88%;
-					left: 18%;
-					width: 33%;
-				}
-				@include mq(pc){
-					top: 81%;
-					left: 5%;
-					width: 38%;
+					width: 25%;
 				}
 			}
-			&.-built-op{
-				top: 71%;
-				left: 38%;
-				transform: translate(-50%, -50%);
-				width: 74%;
-				@include mq(tb){
-					top: 65%;
-					left: 28%;
-					width: 50%;
-				}
-				@include mq(pc){
-				    top: 68%;
-					left: 22%;
-					width: 50%;
-				}
-			}
-			&.-built-textArea{
-				@include mq(tb){
-					top: 50%;
-					left: 50%;
-					transform: translate(-50%, -50%);
-					width: 100%;
-					height: auto;
-				}
-			}
+
 		}
 		&.-pc80{
 			width: 80%;
@@ -104,10 +82,47 @@
 	}
 	// 基本的にSliderは、「Slick or Swiper」を使用すること
 	// 場所：「Scss/introduction内」
-	&.-slider{
+	&.-top-slider{
+		position: relative;
 		//下記スマホ以上
 		@include mq(tb){
+			background: $main-color--gray;
 		}
+		.l-contentsBox{
+
+			&.-top-ballon{
+				position: absolute;
+				top: 42%;
+				left: 5%;
+				width: 23%;
+				z-index: 1;
+				@include mq(tb){
+					top: 30%;
+					left: 5%;
+					width: 15%;
+				}
+				@include mq(tb-pc1300){
+					top: 27%;
+					width: 13%;
+				}
+				@include mq(tb-pc1600){
+					top: 26%;
+					left: 8.5%;
+					width: 10%;
+				}
+				@include mq(tb-pc1850){
+					top: 22%;
+					left: 13.5%;
+				}
+				// .ballonBox{
+				// 	width: 30%;
+				// 	@include mq(tb){
+				// 		width: 15%;
+				// 	}
+				// }
+			}
+		}
+
 	}
 	&.-textArea{
 		width: 90%;

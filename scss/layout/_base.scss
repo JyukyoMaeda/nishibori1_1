@@ -209,6 +209,27 @@ img{
 		margin-bottom: 10vh !important;
 	}
 }
+.l-mgb_20{
+	margin-bottom : 8vh !important;
+	&.-s_1{
+		@include mq(sp){
+			margin-bottom: 1vh !important;
+		}
+	}
+	&.-s_3{
+		@include mq(sp){
+			margin-bottom: 3vh !important;
+		}
+	}
+	&.-s_5{
+		@include mq(sp){
+			margin-bottom: 5vh !important;
+		}
+	}
+	@include mq(tb){
+		margin-bottom: 20vh !important;
+	}
+}
 
 .l-mgb_or{
 	margin-bottom: 0.4vh;
