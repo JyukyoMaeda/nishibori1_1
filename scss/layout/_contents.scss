@@ -61,15 +61,40 @@
 			}
 
 			&.-top-qualityBtn{
-				top: 70%;
+				top: 84%;
 				left: 50%;
 				transform: translateX(-50%);
-
+				width: 50%;
 				@include mq(tb){
+					top: 70%;
 					width: 25%;
 				}
 			}
-
+			&.-plan-facadeBtn{
+				top: 84%;
+				left: 50%;
+				transform: translateX(-50%);
+				width: 50%;
+				@include mq(tb){
+					top: 85%;
+					left: 23.5%;
+					width: 42%;
+					max-width: 530px;
+				}
+				@include mq(tb-pc1300){
+					left: 26.5%;
+					width: 18%;
+				}
+				@include mq(tb-pc1400){
+					left: 26.5%;
+				}
+				@include mq(tb-pc1600){
+					left: 30.5%;
+				}
+				@include mq(tb-pc1850){
+					left: 32.5%;
+				}
+			}
 		}
 		&.-pc80{
 			width: 80%;

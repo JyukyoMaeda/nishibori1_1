@@ -162,6 +162,16 @@ img{
 		margin-bottom: 2vh !important;
 	}
 }
+.l-mgb_5_s{
+	@include mq(sp){
+		margin-bottom: 5vh !important;
+	}
+}
+.l-mgb_10_s{
+	@include mq(sp){
+		margin-bottom: 10vh !important;
+	}
+}
 .l-mgb_1{
 	margin-bottom: 1vh !important;
 	@include mq(tb){

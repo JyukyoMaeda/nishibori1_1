@@ -232,6 +232,18 @@ img {
   }
 }
 
+@media screen and (max-width: 768px) {
+  .l-mgb_5_s {
+    margin-bottom: 5vh !important;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .l-mgb_10_s {
+    margin-bottom: 10vh !important;
+  }
+}
+
 .l-mgb_1 {
   margin-bottom: 1vh !important;
 }
@@ -426,11 +438,9 @@ img {
   }
 }
 
-@media screen and (min-width: 767px) {
-  .box_btn {
-    padding: 1vh 0;
-    background: #4896d0;
-  }
+.box_btn {
+  padding: 1vh 0;
+  background: #4896d0;
 }
 
 .l-contact--area {
@@ -513,13 +523,50 @@ img {
   transform: translate(-50%, -50%);
 }
 .l-contents.-img-bg .l-contentsBox.-top-qualityBtn {
-  top: 70%;
+  top: 84%;
   left: 50%;
   transform: translateX(-50%);
+  width: 50%;
 }
 @media screen and (min-width: 767px) {
   .l-contents.-img-bg .l-contentsBox.-top-qualityBtn {
+    top: 70%;
     width: 25%;
+  }
+}
+.l-contents.-img-bg .l-contentsBox.-plan-facadeBtn {
+  top: 84%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 50%;
+}
+@media screen and (min-width: 767px) {
+  .l-contents.-img-bg .l-contentsBox.-plan-facadeBtn {
+    top: 85%;
+    left: 23.5%;
+    width: 42%;
+    max-width: 530px;
+  }
+}
+@media screen and (min-width: 1300px) {
+  .l-contents.-img-bg .l-contentsBox.-plan-facadeBtn {
+    left: 26.5%;
+    width: 18%;
+  }
+}
+@media screen and (min-width: 1400px) {
+  .l-contents.-img-bg .l-contentsBox.-plan-facadeBtn {
+    left: 26.5%;
+  }
+}
+@media screen and (min-width: 1600px) {
+  .l-contents.-img-bg .l-contentsBox.-plan-facadeBtn {
+    left: 30.5%;
+  }
+}
+@media screen and (min-width: 1850px) {
+  .l-contents.-img-bg .l-contentsBox.-plan-facadeBtn {
+    left: 32.5%;
   }
 }
 .l-contents.-img-bg.-pc80 {

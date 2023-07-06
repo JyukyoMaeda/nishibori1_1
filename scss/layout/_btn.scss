@@ -67,8 +67,6 @@
 }
 
 .box_btn{
-    @include mq(tb){
         padding: 1vh 0;
         background: #4896d0;
-    }
 }
