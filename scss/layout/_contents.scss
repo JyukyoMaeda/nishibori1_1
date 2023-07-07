@@ -64,14 +64,14 @@
 				top: 84%;
 				left: 50%;
 				transform: translateX(-50%);
-				width: 50%;
+				width: 65%;
 				@include mq(tb){
 					top: 70%;
 					width: 25%;
 				}
 			}
 			&.-plan-facadeBtn{
-				top: 84%;
+				top: 92%;
 				left: 50%;
 				transform: translateX(-50%);
 				width: 50%;
@@ -105,6 +105,14 @@
 					left: 50%;
 					width: 42%;
 					max-width: 300px;
+				}
+			}
+			&.-slider02{
+				top: 62%;
+				left: 50%;
+				transform: translateX(-50%);
+				@include mq(tb){
+
 				}
 			}
 		}
@@ -151,12 +159,6 @@
 					top: 22%;
 					left: 13.5%;
 				}
-				// .ballonBox{
-				// 	width: 30%;
-				// 	@include mq(tb){
-				// 		width: 15%;
-				// 	}
-				// }
 			}
 		}
 

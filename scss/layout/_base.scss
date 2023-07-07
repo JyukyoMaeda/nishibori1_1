@@ -60,7 +60,7 @@ body{
 	animation: fadein 2s forwards;
 }
 img{
-	pointer-events: none;
+	// pointer-events: none;
 	user-drag: none;
 	-webkit-user-drag: none;
 	-moz-user-select: none;
@@ -234,6 +234,11 @@ img{
 	&.-s_5{
 		@include mq(sp){
 			margin-bottom: 5vh !important;
+		}
+	}
+	&.-s_10{
+		@include mq(sp){
+			margin-bottom: 10vh !important;
 		}
 	}
 	@include mq(tb){

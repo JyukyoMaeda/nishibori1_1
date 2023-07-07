@@ -118,7 +118,6 @@ body {
 }
 
 img {
-  pointer-events: none;
   user-drag: none;
   -webkit-user-drag: none;
   -moz-user-select: none;
@@ -320,6 +319,11 @@ img {
 @media screen and (max-width: 768px) {
   .l-mgb_20.-s_5 {
     margin-bottom: 5vh !important;
+  }
+}
+@media screen and (max-width: 768px) {
+  .l-mgb_20.-s_10 {
+    margin-bottom: 10vh !important;
   }
 }
 @media screen and (min-width: 767px) {
@@ -530,7 +534,7 @@ img {
   top: 84%;
   left: 50%;
   transform: translateX(-50%);
-  width: 50%;
+  width: 65%;
 }
 @media screen and (min-width: 767px) {
   .l-contents.-img-bg .l-contentsBox.-top-qualityBtn {
@@ -539,7 +543,7 @@ img {
   }
 }
 .l-contents.-img-bg .l-contentsBox.-plan-facadeBtn {
-  top: 84%;
+  top: 92%;
   left: 50%;
   transform: translateX(-50%);
   width: 50%;
@@ -586,6 +590,11 @@ img {
     width: 42%;
     max-width: 300px;
   }
+}
+.l-contents.-img-bg .l-contentsBox.-slider02 {
+  top: 62%;
+  left: 50%;
+  transform: translateX(-50%);
 }
 .l-contents.-img-bg.-pc80 {
   width: 80%;
@@ -1535,7 +1544,7 @@ img {
   padding: 1% 0;
 }
 .l-header .l-header-navBox__list {
-  width: 33.3333333333%;
+  width: 25%;
   padding: 1%;
 }
 .l-header .l-header-navBox__list a {
@@ -1544,7 +1553,7 @@ img {
   font-size: 3vw;
   color: black;
   background: white;
-  padding: 1.5vh 0 0.2vh;
+  padding: 1.3vh 0 0.2vh;
   border-radius: 5px;
   overflow: hidden;
   transition: 0.3s all;
